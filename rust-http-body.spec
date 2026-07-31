@@ -5,8 +5,8 @@
 %global crate http-body
 
 Name:           rust-%{crate}
-Version:        0.1.0
-Release:        5%{?dist}
+Version:        1.1.0
+Release:        1%{?dist}
 Summary:        Trait representing an asynchronous, streaming, HTTP request or response body
 
 # Upstream license specification: MIT
